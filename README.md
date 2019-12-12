@@ -1,6 +1,19 @@
-# assimilar-pc-dotnet-cmd
-I would like to insert or supplement an idea where dotnet, an old microsoft program that I managed to cast response to converse herbeviarism, pitch the idea or not book and run on the pc in real time where to use a computer and talk to dotnet in audio with pc,.
-
-the idea is to insert a response cmd with audio and assimilating everything he hears and answering, on the pc assimilating he records the experience and will have but response according to time and your tutor or its owner is configuring his personality
-
-resposta assimilar de personilidade
+{
+    [       
+<input type="datetime-local" name="imput.in" id=""/>
+<label for="localization"no.acesso></label>
+<link rel="manifest" href="https://InteractiveBrokers.accout"moises552/>
+    ]
+        {
+            <param name="SSL=ndc1.ibllc.com:4000,true,20191201,true" value="true"/>
+<textarea name="account.moises552" id="moises552" cols="30" rows="10">account<.imput/textarea>
+    <link rel="import" href="https://InteractiveBrokers.accout.html"localization.imput/>
+<table datetime=document"localization.imput"param"4000">
+        <textarea name="document" id="imput.moises552" cols="30" rows="10"></textarea>
+    </table>
+    <img src="localization"regiao.acesso alt="" sizes="InteractiveBrokers" srcset="impress.text.css"/>
+            [
+            return: localization"imput:acess.accout.moises552";
+        ]
+    }
+}e
